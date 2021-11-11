@@ -80,5 +80,5 @@ This section contains screenshots of each page that must be built, at varying sc
 Landing page
 
 Visualization pages
-You'll build four of these, one for each visualization. Here's an example of one:
+You'll build four of these, one for each visualization. 
 
